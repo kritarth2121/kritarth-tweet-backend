@@ -71,7 +71,7 @@ const signup = async (req, res) => {
       username: username,
       email: email,
       password: hashedPassword,
-      bio: "Hi there! I'm using Nova Socials",
+      bio: "Hi there! I'm using Kritarth Twitter",
       profileUrl:
         "https://res.cloudinary.com/formula-web-apps/image/upload/v1623766149/148-1486972_mystery-man-avatar-circle-clipart_kldmy3.jpg",
     });

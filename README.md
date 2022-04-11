@@ -1,4 +1,4 @@
-# Nova Socials Backend
+# Kritarth Twitter Backend
 
 Backend repository for social media web app using ExpressJS connected to MongoDB through Mongoose.
 - password encrypted.
